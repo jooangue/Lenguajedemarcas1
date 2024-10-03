@@ -1,2 +1,2 @@
 # Lenguajedemarcas1
-Primera clase de Markdawn
+Primera clase de Markdown
